@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="removed unnecessary files">
-      <change afterPath="$PROJECT_DIR$/src/TwoD_Arrays.java" afterDir="false" />
+    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="Added 2d Arrays">
+      <change afterPath="$PROJECT_DIR$/src/String_Class.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +69,7 @@
     "Application.Basic_GUI.executor": "Run",
     "Application.For_Loop.executor": "Run",
     "Application.Nested_Loop.executor": "Run",
+    "Application.String_Class.executor": "Run",
     "Application.TwoD_Arrays.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.array_class.executor": "Debug",
@@ -143,7 +144,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729637372855</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added 2d Arrays">
+      <option name="closed" value="true" />
+      <created>1730193993440</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730193993440</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added 2d Arrays">
+      <option name="closed" value="true" />
+      <created>1730194069757</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730194069757</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +192,7 @@
     <MESSAGE value="sorted files in proper folders and removed unnecessary foolders" />
     <MESSAGE value="sorted files in proper folders and removed unnecessary folders" />
     <MESSAGE value="removed unnecessary files" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed unnecessary files" />
+    <MESSAGE value="Added 2d Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 2d Arrays" />
   </component>
 </project>
