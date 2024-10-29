@@ -4,33 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="Added Nested loops">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/.idea/variables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Basic_GUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Expressions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/For_Loop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Hypotenose_Calculator_Project.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/If_Statements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Logical_Operators_AND.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Logical_Operators_OR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Math_Class.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Nested_Loop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Printing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Random_Numbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Swapping_Variables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Switches.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/User_Input.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Variables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/While_loop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/empty.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/untitled1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="removed unnecessary files">
+      <change afterPath="$PROJECT_DIR$/src/TwoD_Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +49,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -92,7 +67,9 @@
     "Application.Arrays.executor": "Run",
     "Application.Arrays_.executor": "Debug",
     "Application.Basic_GUI.executor": "Run",
+    "Application.For_Loop.executor": "Run",
     "Application.Nested_Loop.executor": "Run",
+    "Application.TwoD_Arrays.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.array_class.executor": "Debug",
     "Application.example.executor": "Run",
@@ -142,7 +119,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729634448002</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="sorted files in proper folders and removed unnecessary foolders">
+      <option name="closed" value="true" />
+      <created>1729637220377</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729637220377</updated>
+    </task>
+    <task id="LOCAL-00005" summary="sorted files in proper folders and removed unnecessary folders">
+      <option name="closed" value="true" />
+      <created>1729637261042</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729637261042</updated>
+    </task>
+    <task id="LOCAL-00006" summary="removed unnecessary files">
+      <option name="closed" value="true" />
+      <created>1729637372855</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729637372855</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,17 +172,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="vcs" />
     <MESSAGE value="Added Nested loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Nested loops" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="sorted files in proper folders and removed unnecessary foolders" />
+    <MESSAGE value="sorted files in proper folders and removed unnecessary folders" />
+    <MESSAGE value="removed unnecessary files" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed unnecessary files" />
   </component>
 </project>
