@@ -4,12 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="removed unnecessary files">
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/If_Statements.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/If_Statements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="Added Nested loops">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/.idea/variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Basic_GUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Expressions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/For_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Hypotenose_Calculator_Project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/If_Statements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Logical_Operators_AND.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Logical_Operators_OR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Math_Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Nested_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Printing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Random_Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Swapping_Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Switches.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/User_Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/While_loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/src/empty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/For_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/For_Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/If_Statements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If_Statements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +70,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Nyde14/Java-Rice.git&quot;,
-    &quot;accountId&quot;: &quot;b78374d7-ad25-4dd3-962b-cca45c5a2d75&quot;
+    &quot;accountId&quot;: &quot;b2de3acf-0500-4d3a-87df-549222cab51a&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -70,10 +92,7 @@
     "Application.Arrays.executor": "Run",
     "Application.Arrays_.executor": "Debug",
     "Application.Basic_GUI.executor": "Run",
-    "Application.For_Loop.executor": "Run",
-    "Application.If_Statements.executor": "Run",
     "Application.Nested_Loop.executor": "Run",
-    "Application.Printing.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.array_class.executor": "Debug",
     "Application.example.executor": "Run",
@@ -82,9 +101,9 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/User.DESKTOP-QS46JDJ/IdeaProjects/Java-Rice",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/JAVA_RICE",
     "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/JAVA_RICE/src/Main.java",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
@@ -123,15 +142,7 @@
       <option name="project" value="LOCAL" />
       <updated>1729634448002</updated>
     </task>
-    <task id="LOCAL-00004" summary="removed unnecessary files">
-      <option name="closed" value="true" />
-      <created>1730069798493</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1730069798493</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,8 +171,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="vcs" />
     <MESSAGE value="Added Nested loops" />
-    <MESSAGE value="removed unnecessary files" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed unnecessary files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Nested loops" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
