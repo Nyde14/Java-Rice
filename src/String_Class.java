@@ -5,7 +5,7 @@ public class String_Class {
 
         String name = "name";
 
-        //boolean result = name.equals("name");
+        boolean result = name.equals("name");
         //int result = name.length();
         //char result = name.charAt(0);
         //int result = name.indexOf("n");
