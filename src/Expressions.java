@@ -2,10 +2,10 @@ public class Expressions {
 
     public static void main(String[] args) {
 
-        double cats = 10;
-        cats = (double) cats + 1;
+        double x = 10;
+        x = (double) x + 1;
 
-        System.out.println(cats);
+        System.out.println(x);
     }
 }
 //expressions - operands and operators

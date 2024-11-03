@@ -1,4 +1,4 @@
-// For loop - executes a codde for a limited amount of time unlike while loop that executes a code infinitely
+// For loop - executes a code for a limited amount of time unlike while loop that executes a code infinitely
 public class For_Loop {
 
     public static void main(String[] args){
