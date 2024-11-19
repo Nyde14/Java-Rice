@@ -4,12 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/Methods/Overloaded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Return.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/TwoD_ArrayLIst.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/TwoD_ArrayLIst.class" afterDir="false" />
+    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="added methods">
+      <change afterPath="$PROJECT_DIR$/src/OOP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/cup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Printf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Array_list.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Basic_GUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Expressions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/For_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Hypotenose_Calculator_Project.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/If_Statements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Logical_Operators_AND.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Logical_Operators_OR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Math_Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Nested_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Printing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Random_Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/String_Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Swapping_Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Switches.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/TwoD_ArrayLIst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/TwoD_Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/User_Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/While_loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +97,7 @@
     "Application.Main.executor": "Run",
     "Application.Nested_Loop.executor": "Run",
     "Application.Overloaded.executor": "Run",
+    "Application.Printf.executor": "Run",
     "Application.Return.executor": "Run",
     "Application.TwoD_ArrayLIst.executor": "Run",
     "Application.Unnamed.executor": "Run",
@@ -150,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731651395990</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added methods">
+      <option name="closed" value="true" />
+      <created>1731711314815</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731711314815</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,7 +213,8 @@
     <MESSAGE value="Added Array list" />
     <MESSAGE value="Added 2d Array list" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="added methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="added methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

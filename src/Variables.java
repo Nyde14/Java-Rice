@@ -10,5 +10,7 @@ public class Variables {
         String word ="meow";
         System.out.println("My number is:"+x);
         System.out.println("My cat says "+word);
+
+        // final - makes a variable unchangable
     }
 }
