@@ -22,6 +22,6 @@ public class Logical_Operators_OR {
 }
 //Logical operators = used to connect 2 or more expressions
 // && = (AND) both conditions must be true
-// ||= (OR) either condition must be true
+// ||= (OR) one condition only must be true
+// ^^ = (XOR) both conditions must be same to be true
 // ! = (NOT) reverses boolean value of a condition
-// Abraham Nyde Sioson 11 - ICT Java
