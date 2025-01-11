@@ -8,7 +8,7 @@ public class Overloaded {
         // it is allowed as long as they have different parameters
         // factors that make parameters different from others = number of parameters, data type, and order
 
-        int x = add(1,2);
+        int x = add(1,2,3);
         System.out.println(x);
         // by matching the arguments and parameters you can use a different method
 
