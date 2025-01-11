@@ -10,7 +10,8 @@ public class Expressions {
 }
 //expressions - operands and operators
 //operands - values, variables, numbers, quantity
-//operators = + - * /
+//operators = + - *
+// ++ to increment and -- to decrement
 // use % to divide and get the remainder
 // convert int to double to get a decimal answer
 // Abraham Nyde Sioson 11 - ICT Java
