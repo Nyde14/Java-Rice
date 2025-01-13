@@ -4,34 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="added methods">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/cup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Printf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Array_list.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Basic_GUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Expressions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/For_Loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Hypotenose_Calculator_Project.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/If_Statements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Logical_Operators_AND.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Logical_Operators_OR.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Math_Class.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Nested_Loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Printing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Random_Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/String_Class.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Swapping_Variables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Switches.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/TwoD_ArrayLIst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/TwoD_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/User_Input.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Variables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/While_loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="added more classes">
+      <change afterPath="$PROJECT_DIR$/Do not play.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Audio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Polymorphism/Female.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Polymorphism/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Polymorphism/Male.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception_Handling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FIle_Class/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FIle_Class/Secret_Message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileReader/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileWritter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_11_2024_7_10_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_11_2024_7_10_AM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,36 +74,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayExample.executor": "Run",
-    "Application.Array_Class.executor": "Run",
-    "Application.Array_list.executor": "Run",
-    "Application.Arrays.executor": "Run",
-    "Application.Arrays_.executor": "Debug",
-    "Application.Basic_GUI.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Nested_Loop.executor": "Run",
-    "Application.Overloaded.executor": "Run",
-    "Application.Printf.executor": "Run",
-    "Application.Return.executor": "Run",
-    "Application.TwoD_ArrayLIst.executor": "Run",
-    "Application.Unnamed.executor": "Run",
-    "Application.array_class.executor": "Debug",
-    "Application.example.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/JAVA_RICE",
-    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/JAVA_RICE/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_list.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays_.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Basic_GUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exception_Handling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.File_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Nested_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Overloaded.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Printf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Return.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoD_ArrayLIst.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.array_class.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.example.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/JAVA_RICE&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/IdeaProjects/JAVA_RICE/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\JAVA_RICE" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\JAVA_RICE" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="vcs">
@@ -181,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731711314815</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added more classes">
+      <option name="closed" value="true" />
+      <created>1736571611277</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736571611277</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +220,8 @@
     <MESSAGE value="Added 2d Array list" />
     <MESSAGE value="." />
     <MESSAGE value="added methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="added methods" />
+    <MESSAGE value="added more classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added more classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
