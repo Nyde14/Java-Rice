@@ -16,7 +16,7 @@ public class Main {
             int data = reader.read();
             // read() method returns an int value which contains the byte value
             //make a while loop to print each value as characters
-            //-1 means that it has no data inside thats why if it isnt equal to -1 then it does have a value
+            //-1 means that it has no data inside that's why if it isn't equal to -1 then it does have a value
             while(data != -1){
                 // add char inside another parantheses to convert int(data) to a char data type
                 System.out.print((char)data);

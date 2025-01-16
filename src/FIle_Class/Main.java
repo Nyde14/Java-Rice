@@ -5,7 +5,7 @@ import java.io.File;
 public class Main {
     public static void main(String[] args){
 
-        File file = new File("C:\\Users\\user\\Desktop\\Secret_Message.txt");
+        File file = new File("meow.txt");
 
         if(file.exists()){
             System.out.println("This file exists. :O");

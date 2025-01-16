@@ -1,8 +1,11 @@
+import java.util.Scanner;
 public class Switches {
 
     public static void main(String[] args){
 
-        String day = "Friday";
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("please put the day today");
+        String day = scanner.next();
 
         switch(day){
             case"Sunday": System.out.println("It is Sunday!");

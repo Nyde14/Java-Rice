@@ -10,12 +10,13 @@ public class Main {
         //this code will run but not play the sound because after executing it will be terminated when its done
         //to actaully hear the audio you must keep the code runningg like putting a scanner
         Scanner scanner = new Scanner(System.in);
-        File file = new File("Do not play.wav");
+        File file = new File("");
         AudioInputStream audioStream = AudioSystem.getAudioInputStream(file);
         Clip clip = AudioSystem.getClip();
         clip.open(audioStream);
 
         String response ="";
+
 
 
 
