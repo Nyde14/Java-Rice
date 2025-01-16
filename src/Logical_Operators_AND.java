@@ -19,5 +19,5 @@ public class Logical_Operators_AND {
 //Logical operators = used to connect 2 or more expressions
 // && = (AND) both conditions must be true
 // ||= (OR) only condition must be true
-// ^^ = (XOR) 2 conditions must be sae to be true
+// ^^ = (XOR) 2 conditions must be sae to be true/
 // ! = (NOT) reverses boolean value of a condition
