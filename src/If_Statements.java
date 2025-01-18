@@ -27,4 +27,4 @@ public class If_Statements {
 }
 //If statements - performs a code if the conditions are true
 // else - will be performed if conditions are not true
-// Abraham Nyde Sioson 11 - ICT Java
+// else if - similar to else but this checks for another condition
