@@ -4,47 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="removed unecessary files">
-      <change afterPath="$PROJECT_DIR$/git.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Abstract_Keyword/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Abstract_Keyword/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Abstract_Keyword/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Access_Modifiers/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Access_Modifiers/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Access_Modifiers2/Asub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Access_Modifiers2/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Audio/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Constructors/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Constructors/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Dynamic_Polymorphism/Female.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Dynamic_Polymorphism/Gender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Dynamic_Polymorphism/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Dynamic_Polymorphism/Male.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Exception_Handling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/FIle_Class/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/FileReader/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/FileWritter/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Inheritance/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Inheritance/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Inheritance/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Inheritance/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Interface/Fish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Interface/Lion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Interface/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Interface/Predator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Interface/Prey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Interface/Rabbit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Overriding/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Overriding/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Overriding/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Polymorhpism/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Super_Keyword/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Variable_Scopes/Diceroller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/Variable_Scopes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/toString/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/JAVA_RICE/toString/Main.class" beforeDir="false" />
+    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="Added GUI">
+      <change afterPath="$PROJECT_DIR$/java.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736571611277</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added GUI">
+      <option name="closed" value="true" />
+      <created>1737263008117</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737263008118</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,7 +218,8 @@
     <MESSAGE value="." />
     <MESSAGE value="added methods" />
     <MESSAGE value="added more classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added more classes" />
+    <MESSAGE value="Added GUI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added GUI" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
