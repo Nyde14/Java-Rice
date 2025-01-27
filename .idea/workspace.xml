@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="Added GUI">
-      <change afterPath="$PROJECT_DIR$/haha.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ni.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/GUI_And_Labels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Joke_Codes/Ni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_01_2025_6_33_AM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_01_2025_6_33_AM__Changes_.xml" beforeDir="false" />
+    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="Added panels and joke codes folder">
+      <change afterPath="$PROJECT_DIR$/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Buttons/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Buttons/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Joke_Codes/Pay_Gorn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Joke_Codes/a.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Audio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Audio/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +75,13 @@
     "Application.Basic_GUI.executor": "Run",
     "Application.Exception_Handling.executor": "Run",
     "Application.File_Class.executor": "Run",
+    "Application.GUI_And_Labels.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Nested_Loop.executor": "Run",
     "Application.Ni.executor": "Run",
     "Application.Overloaded.executor": "Run",
     "Application.Panels.executor": "Run",
+    "Application.Pay_Gorn.executor": "Run",
     "Application.Printf.executor": "Run",
     "Application.Return.executor": "Run",
     "Application.TwoD_ArrayLIst.executor": "Run",
@@ -200,7 +199,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737529481792</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added panels and joke codes folder">
+      <option name="closed" value="true" />
+      <created>1737982505416</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737982505417</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added panels and joke codes folder">
+      <option name="closed" value="true" />
+      <created>1737982512131</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737982512131</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added panels and joke codes folder">
+      <option name="closed" value="true" />
+      <created>1737982598315</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1737982598317</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +258,8 @@
     <MESSAGE value="added methods" />
     <MESSAGE value="added more classes" />
     <MESSAGE value="Added GUI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added GUI" />
+    <MESSAGE value="Added panels and joke codes folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added panels and joke codes folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -245,6 +269,10 @@
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
