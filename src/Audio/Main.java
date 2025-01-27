@@ -10,7 +10,7 @@ public class Main {
         //this code will run but not play the sound because after executing it will be terminated when its done
         //to actaully hear the audio you must keep the code runningg like putting a scanner
         Scanner scanner = new Scanner(System.in);
-        File file = new File("");
+        File file = new File("haha.wav");
         AudioInputStream audioStream = AudioSystem.getAudioInputStream(file);
         Clip clip = AudioSystem.getClip();
         clip.open(audioStream);
