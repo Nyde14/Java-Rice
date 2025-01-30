@@ -9,7 +9,7 @@ public class Panels {
 
         JPanel greenpanel = new JPanel();
         greenpanel.setBackground(Color.GREEN);//sets bg color for the panel
-        greenpanel.setBounds(0, 0, 300, 300);
+        greenpanel.setBounds(0, 0, 300, 300);// sets the size and location of the panel
 
         JPanel redpanel = new JPanel();
         redpanel.setBackground(Color.RED);

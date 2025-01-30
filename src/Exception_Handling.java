@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Exception_Handling {
 
     public static void main(String[] args){
-        //Exception Handling - Handling an unexpected event that can cause youre program to stop working
+        //Exception Handling - Handling an unexpected event that can cause your program to stop working
         // if the code causes an exception put it inside a "try" block
         Scanner scanner = new Scanner(System.in);
         try {

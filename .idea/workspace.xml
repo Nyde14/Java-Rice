@@ -4,13 +4,80 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="Added panels and joke codes folder">
-      <change afterPath="$PROJECT_DIR$/a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Buttons/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Buttons/MyFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Joke_Codes/Pay_Gorn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Joke_Codes/a.java" afterDir="false" />
+    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="Added GUI">
+      <change afterPath="$PROJECT_DIR$/java_mascot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Joke_Codes/WARNING(pls read)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Abstract_Keyword/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Abstract_Keyword/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Abstract_Keyword/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Access_Modifiers/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Access_Modifiers/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Access_Modifiers2/Asub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Access_Modifiers2/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Array_list.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Basic_GUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Buttons/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Buttons/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Constructors/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Constructors/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Dynamic_Polymorphism/Female.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Dynamic_Polymorphism/Gender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Dynamic_Polymorphism/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Dynamic_Polymorphism/Male.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Exception_Handling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Expressions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/FileReader/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/FileWritter/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/For_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Hypotenose_Calculator_Project.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/If_Statements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Inheritance/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Inheritance/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Inheritance/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Inheritance/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Interface/Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Interface/Lion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Interface/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Interface/Predator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Interface/Prey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Interface/Rabbit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Logical_Operators_AND.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Logical_Operators_OR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Math_Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Methods/Overloaded.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Methods/Return.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Methods/method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Nested_Loop.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Nested_Loop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/OOP/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/OOP/cup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Overriding/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Overriding/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Overriding/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Polymorhpism/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Printf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Printing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Random_Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/String_Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Super_Keyword/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Swapping_Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/TwoD_ArrayLIst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/TwoD_Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/User_Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Variable_Scopes/Diceroller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Variable_Scopes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/While_loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/toString/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java_Advance_Studying/out/production/MEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOWMEOW/toString/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/meow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Buttons/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Buttons/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception_Handling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception_Handling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/For_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/Panels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/Panels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nested_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nested_Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User_Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User_Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/While_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/While_loop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +106,11 @@
       </branch-storage>
     </excluded-from-favorite>
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="mainsal" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -50,7 +122,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Nyde14/Java-Rice.git&quot;,
-    &quot;accountId&quot;: &quot;b2de3acf-0500-4d3a-87df-549222cab51a&quot;
+    &quot;accountId&quot;: &quot;b78374d7-ad25-4dd3-962b-cca45c5a2d75&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -75,6 +147,7 @@
     "Application.Basic_GUI.executor": "Run",
     "Application.Exception_Handling.executor": "Run",
     "Application.File_Class.executor": "Run",
+    "Application.For_Loop.executor": "Run",
     "Application.GUI_And_Labels.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Nested_Loop.executor": "Run",
@@ -86,6 +159,7 @@
     "Application.Return.executor": "Run",
     "Application.TwoD_ArrayLIst.executor": "Run",
     "Application.Unnamed.executor": "Run",
+    "Application.While_loop.executor": "Run",
     "Application.array_class.executor": "Debug",
     "Application.example.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -191,39 +265,7 @@
       <option name="project" value="LOCAL" />
       <updated>1737263008118</updated>
     </task>
-    <task id="LOCAL-00010" summary="Added GUI">
-      <option name="closed" value="true" />
-      <created>1737529481789</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1737529481792</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Added panels and joke codes folder">
-      <option name="closed" value="true" />
-      <created>1737982505416</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1737982505417</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Added panels and joke codes folder">
-      <option name="closed" value="true" />
-      <created>1737982512131</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1737982512131</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Added panels and joke codes folder">
-      <option name="closed" value="true" />
-      <created>1737982598315</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1737982598317</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,8 +300,7 @@
     <MESSAGE value="added methods" />
     <MESSAGE value="added more classes" />
     <MESSAGE value="Added GUI" />
-    <MESSAGE value="Added panels and joke codes folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added panels and joke codes folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added GUI" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -269,10 +310,6 @@
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.util.InputMismatchException" package="java.util" />
-          <option name="timeStamp" value="2" />
-        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

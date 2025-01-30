@@ -25,4 +25,3 @@ public class User_Input {
 //Don't forget to put import java.util.Scanner;
 //replace nextLine with nextInt if input must only be a number
 //put scanner.nextLine(); next line every after int variable to prevent skipping
-// Abraham Nyde Sioson 11 - ICT Java
