@@ -6,7 +6,7 @@ import javax.swing.JLabel;
 
 
 public class a {
-    public void run(){
+    public static void run(){
         JFrame frame = new JFrame();
         ImageIcon image = new ImageIcon("a.png");
         JLabel label = new JLabel();
