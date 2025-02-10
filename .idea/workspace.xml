@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="added buttons">
-      <change afterPath="$PROJECT_DIR$/Johnfel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/Border_Layouts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/Flow_Layout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/aaa.java" afterDir="false" />
+    <list default="true" id="037c8cfc-4c41-4182-8343-dccc7b1c7ad6" name="Changes" comment="Added panels and joke codes folder">
+      <change afterPath="$PROJECT_DIR$/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Buttons/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Buttons/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Joke_Codes/Pay_Gorn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Joke_Codes/a.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Joke_Codes/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Joke_Codes/a.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,10 +73,8 @@
     "Application.Arrays.executor": "Run",
     "Application.Arrays_.executor": "Debug",
     "Application.Basic_GUI.executor": "Run",
-    "Application.Border_Layouts.executor": "Run",
     "Application.Exception_Handling.executor": "Run",
     "Application.File_Class.executor": "Run",
-    "Application.Flow_Layout.executor": "Run",
     "Application.GUI_And_Labels.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Nested_Loop.executor": "Run",
@@ -88,7 +86,6 @@
     "Application.Return.executor": "Run",
     "Application.TwoD_ArrayLIst.executor": "Run",
     "Application.Unnamed.executor": "Run",
-    "Application.aaa.executor": "Run",
     "Application.array_class.executor": "Debug",
     "Application.example.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -226,15 +223,7 @@
       <option name="project" value="LOCAL" />
       <updated>1737982598317</updated>
     </task>
-    <task id="LOCAL-00014" summary="added buttons">
-      <option name="closed" value="true" />
-      <created>1737986619914</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1737986619916</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,8 +259,7 @@
     <MESSAGE value="added more classes" />
     <MESSAGE value="Added GUI" />
     <MESSAGE value="Added panels and joke codes folder" />
-    <MESSAGE value="added buttons" />
-    <option name="LAST_COMMIT_MESSAGE" value="added buttons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added panels and joke codes folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

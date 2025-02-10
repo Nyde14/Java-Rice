@@ -18,5 +18,5 @@ public class While_loop {
     }
 }
 //while loop - executes a code continuously as long as the conditions are true
-// Abraham Nyde Sioson 11 - ICT Java
+
 
